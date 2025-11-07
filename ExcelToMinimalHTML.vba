@@ -1,4 +1,4 @@
-Sub CopySelectionAsCleanHTML()
+Sub ExcelToMinimalHTML()
     Dim rng As Range
     Dim htmlStr As String
     Dim fso As Object
